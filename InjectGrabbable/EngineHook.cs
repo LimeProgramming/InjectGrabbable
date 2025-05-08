@@ -9,7 +9,7 @@ namespace InjectGrabbable
         public override string Name => "InjectGrabbable";
         public override string Author => "CalamityLime";
         public override string Version => "1.0.0";
-        public override string Link => "";
+        public override string Link => "https://github.com/LimeProgramming/InjectGrabbable";
 
         public static ModConfiguration Config;
 
